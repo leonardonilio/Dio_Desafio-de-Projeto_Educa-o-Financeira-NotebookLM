@@ -1,2 +1,15 @@
 # Dio_Desafio-de-Projeto_Educa-o-Financeira-NotebookLM
-No NotebookLM, criei um caderno temático sobre um assunto financeiro introdutório. Organizei os conteúdos principais, defini objetivos de estudo e elaborei perguntas para explorar melhor o tema. Também testei diferentes prompts para entender como a IA poderia ajudar a explicar e estruturar as informações.
+Este repositório reúne a atividade desenvolvida utilizando o NotebookLM, cujo objetivo foi criar um caderno temático sobre educação financeira introdutória. A proposta consistiu em organizar conteúdos, elaborar perguntas estratégicas e explorar o uso da IA como apoio ao aprendizado ativo.
+
+---
+##🧠 Objetivo do Projeto
+
+Demonstrar a aplicação do NotebookLM como recurso de:
+
+-Aprendizagem ativa;
+
+-Exploração guiada por prompts;
+
+-Organização de ideias;
+
+-Sistematização de conceitos financeiros e de investimentos básicos.
